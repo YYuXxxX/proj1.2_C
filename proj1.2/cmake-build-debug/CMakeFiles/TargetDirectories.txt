@@ -1,0 +1,3 @@
+C:/Users/yuxin/cs110-sp24/proj1.2/cmake-build-debug/CMakeFiles/proj1_2.dir
+C:/Users/yuxin/cs110-sp24/proj1.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuxin/cs110-sp24/proj1.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
